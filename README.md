@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Ben
 
-I'm an independent software developer and the creator of [StreamCam](https://bfrearson.github.io/streamcam/) and [Loopify](https://bfrearson.github.io/loopifyhelp/)[^1].
+I'm a software developer and the creator of [StreamCam](https://bfrearson.github.io/streamcam/) and [Loopify](https://bfrearson.github.io/loopifyhelp/)[^1].
 
 I care a lot about UX, and so I try to not only make things that solve problems, but solve problems in an ergonomic way. Neither of my apps have a completely unique functionality, but they do try present their interface in a way that the user will hopefully enjoy. 
 
